@@ -1,13 +1,12 @@
 # Summary
 
-[Section 1 - Getting Started with network programming](first_section.md)
+[Section 1 - Virtualization](first_section.md)
 
-  [CH_1 - Introducing Networks and Protocols](./ch1/ch1.md)
-  [CH_2 - Getting to Grips with Socket APIs](./ch2/ch2.md)
-  [CH_3 - An In-Depth Overview of TCP Connections](./ch3/ch3.md)
-  [CH_4 - Establishing UDP connections](./ch4/ch4.md)
-  [CH_5 - Hostname resolution & DNS](./ch5/ch5.md)
+- [CH_4 - The Abstraction: The Process](./ch4/ch4.md)
+  - [Questions](./ch4/q4.md)
 
-[Section 2 - An overview of application layer protocols](second_section.md)
 
-[CH_6 - Building a simple Web Client](./ch6/ch6.md)
+
+
+[Section 2 - Concurrency](second_section.md)
+[Section 3 - Persistence](third_section.md)
