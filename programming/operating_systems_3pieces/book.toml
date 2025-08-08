@@ -1,0 +1,6 @@
+[book]
+authors = ["Suru"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Operating Systems - 3 Easy Pieces"

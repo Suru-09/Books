@@ -1,0 +1,29 @@
+book
+
+# ELF executables
+unix_list/
+sock_init/
+time_console/
+time_server/
+time_server_dual/
+tcp_client/
+tcp_server_toupper/
+udp_client/
+udp_recvfrom/
+udp_sendto/
+udp_server_toupper/
+lookup/
+dns_query/
+web_get/
+openssl_version/
+https_simple/
+
+# Executables and libs
+*.exe
+*.so
+*.sa
+*.a
+*.o
+
+# Build folders
+build/** */

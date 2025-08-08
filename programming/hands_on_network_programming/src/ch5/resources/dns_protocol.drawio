@@ -1,0 +1,44 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
+    <mxGraphModel dx="637" dy="-263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1090" width="71" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHyZyCTGe5lX3UlsQiHS-4" target="vHyZyCTGe5lX3UlsQiHS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1200" />
+              <mxPoint x="506" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1100" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.674;exitY=-0.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vHyZyCTGe5lX3UlsQiHS-2" target="vHyZyCTGe5lX3UlsQiHS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="518" y="1070" />
+              <mxPoint x="260" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-9" value="DNS Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-10" value="DNS Answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1038" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-11" value="DNS Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHyZyCTGe5lX3UlsQiHS-13" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1170" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

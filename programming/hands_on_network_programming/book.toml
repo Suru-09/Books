@@ -1,0 +1,6 @@
+[book]
+authors = ["Dragos Surugiu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hands On Network Programming"
